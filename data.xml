@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+	<title>A Dragon Named Coal</title>
+	<founding-date></founding-date>
+	<website>http://www.playadnc.com/</website>
+	<based-in>Denver, Colorado</based-in>
+
+	<press-contact>contact@clevercrowgames.com</press-contact>
+	<phone></phone>
+	<address>
+		<line></line>
+		<line></line>
+		<line></line>
+	</address>
+
+	<socials>
+		<social>
+			<name>twitter</name>
+			<link>https://twitter.com/Clever_Crow</link>
+		</social>
+		<social>
+			<name>facebook</name>
+			<link>https://www.facebook.com/clevercrowgames</link>
+		</social>
+		<social>
+			<name>YouTube</name>
+			<link>https://www.youtube.com/user/clevercrowgames</link>
+		</social>
+		<social>
+			<name>Steam Group</name>
+			<link>http://steamcommunity.com/groups/a-dragon-named-coal#</link>
+		</social>
+	</socials>
+
+	<description>
+		A choice driven RPG set in a dark fantasy world. Play as Coal, a little dragon who wants to be a knight. Coal is a handicapped dragon who has been ostracized from society for his obsession with humans.
+
+		If Disney and the manga Berserk had a baby, you’d end up with A Dragon Named Coal. The game has visceral elements of Game of Thrones and doesn’t shy away from mature subject matter. At the same time it focuses on fable based storytelling mechanics.
+	</description>
+
+	<histories>
+		<history>
+			<header>Gameplay</header>
+			<text>Not all fairytales end happily. A Dragon Named Coal is a dark fantasy epic with Castlevania: Symphony of the Night inspired gameplay and branching story mechanics of Dragon Age: Origins. The game is primarily being created by a husband and wife game studio. Currently we're actively developing for Mac, Windows, Linux and the game will be DRM-Free. With a primary focus on Steam.
+
+			A Dragon Named Coal is deeply inspired by the gameplay of Castlevania: Symphony of the Night, Dragon Age: Origins, and Dark Souls. While there are a good number of action RPGs being made. There are few 2D sidescrollers being made that combines gameplay with deep branching story mechanics.</text>
+		</history>
+		<history>
+			<header>Features</header>
+			<ul>
+					<li>Explore a choice driven dark fantasy world in an action platformer RPG as a misfit dragon</li>
+					<li>Upgrade your skills and gear by plundering the remains of ancient civilizations</li>
+					<li>Flexible companion system with characters that change based upon your choices after a time skip</li>
+					<li>Roughly 15 hours per playthrough</li>
+			</ul>
+		</history>
+	</histories>
+
+	<!-- <trailers>
+		<trailer>
+			<name>This video is nice</name>
+			<youtube>7jQbITg0MSk</youtube>
+		</trailer>
+		<trailer>
+			<name>This one too</name>
+			<youtube>0CevOaYrYDA</youtube>
+			<vimeo>12536488</vimeo>
+		</trailer>
+	</trailers> -->
+
+		<!-- <awards>
+			<award>
+				<description>Winner in this highly relevant contest.</description>
+				<info>Award Location, 20 October, 1989</info>
+			</award>
+			<award>
+				<description>Nomination for this prestigious award.</description>
+				<info>Award Ceremony, 4 December, 1991</info>
+			</award>
+			<award>
+				<description>Winner in this highly relevant contest.</description>
+				<info>Award Location, 20 October, 1989</info>
+			</award>
+			<award>
+				<description>Nomination for this prestigious award.</description>
+				<info>Award Ceremony, 4 December, 1991</info>
+			</award>
+		</awards> -->
+
+	<!-- <quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes> -->
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+	<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>
+
+	<!-- <credits>
+		<credit>
+			<person>John Doe</person>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Oliver Twist</person>
+			<website>www.olivertwist.com</website>
+			<role>Artist, Freelancer</role>
+		</credit>
+		<credit>
+			<person>Jane Doette</person>
+			<website>www.olivertwist.com</website>
+			<role>Music, Freelancer</role>
+		</credit>
+	</credits> -->
+
+	<!-- <contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>rami@vlambeer.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/MyCompanyName</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/MyCompanyName</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>MyCompanyWebsite.com</link>
+		</contact>
+	</contacts> -->
+</game>
