@@ -11,8 +11,6 @@
 	<phone></phone>
 	<address>
 		<line></line>
-		<line></line>
-		<line></line>
 	</address>
 
 	<socials>
@@ -58,19 +56,18 @@
 		</history>
 	</histories>
 
-	<!-- <trailers>
+	<trailers>
 		<trailer>
-			<name>This video is nice</name>
-			<youtube>7jQbITg0MSk</youtube>
+			<name>temp placeholder video</name>
+			<youtube>afws75uGQu4</youtube>
 		</trailer>
 		<trailer>
-			<name>This one too</name>
-			<youtube>0CevOaYrYDA</youtube>
-			<vimeo>12536488</vimeo>
+			<name>A Dragon Named Coal - Pre-Alpha Walkthrough</name>
+			<youtube>Hr_ge6Jqz2Y</youtube>
 		</trailer>
-	</trailers> -->
+	</trailers>
 
-		<!-- <awards>
+		<awards>
 			<award>
 				<description>Winner in this highly relevant contest.</description>
 				<info>Award Location, 20 October, 1989</info>
@@ -87,34 +84,28 @@
 				<description>Nomination for this prestigious award.</description>
 				<info>Award Ceremony, 4 December, 1991</info>
 			</award>
-		</awards> -->
+		</awards>
 
-	<!-- <quotes>
+	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>...an ambitious title.</description>
+			<name>Chris Priestman</name>
+			<website>Siliconera</website>
+			<link>http://www.siliconera.com/2015/03/25/pre-alpha-of-dark-fairytale-action-rpg-a-dragon-named-coal-now-playable/</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
+			<description>...a large and sweeping tale of adventure.</description>
+			<name>David Jagneaux</name>
+			<website>The Koalition</website>
+			<link>http://thekoalition.com/2015/the-story-of-a-dragon-named-coal-hands-on-preview</link>
 		</quote>
 		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
+			<description>A Dragon Named Coal combines all the best bits of Castlevania, Thomas Was Alone and Dragon Age into a charming pixel art metroidvania action RPG... A Dragon Named Coal feels a little bit special.</description>
+			<name>FreakOrama</name>
+			<website>Alpha Beta Gamer</website>
+			<link>http://www.alphabetagamer.com/a-dragon-named-coal-pre-alpha-demo/</link>
 		</quote>
-		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
-		</quote>
-	</quotes> -->
+	</quotes>
 
 	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
 	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
@@ -129,7 +120,7 @@
 		</additional>
 	</additionals>
 
-	<!-- <credits>
+	<credits>
 		<credit>
 			<person>John Doe</person>
 			<role>Artist, Freelancer</role>
@@ -144,9 +135,9 @@
 			<website>www.olivertwist.com</website>
 			<role>Music, Freelancer</role>
 		</credit>
-	</credits> -->
+	</credits>
 
-	<!-- <contacts>
+	<contacts>
 		<contact>
 			<name>Inquiries</name>
 			<mail>rami@vlambeer.com</mail>
@@ -163,5 +154,5 @@
 			<name>Web</name>
 			<link>MyCompanyWebsite.com</link>
 		</contact>
-	</contacts> -->
+	</contacts>
 </game>
