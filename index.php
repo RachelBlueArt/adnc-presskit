@@ -213,6 +213,7 @@ echo '<!DOCTYPE html>
 		<title>'. COMPANY_TITLE .'</title>
 		<link href="http://cdnjs.cloudflare.com/ajax/libs/uikit/1.2.0/css/uikit.gradient.min.css" rel="stylesheet" type="text/css">
 		<link href="style.css" rel="stylesheet" type="text/css">
+		<link href="styles/custom.css" rel="stylesheet" type="text/css">
 	</head>
 
 	<body>
@@ -262,12 +263,8 @@ echo '					<div class="uk-grid">
 							<h2 id="factsheet">'. tl('Factsheet') .'</h2>
 							<p>
 								<strong>'. tl('Developer:') .'</strong><br/>
-								<a href="">'. COMPANY_TITLE .'</a><br/>
+								<a href="http://clevercg.com" taget="_blank">Clever Crow Games</a><br/>
 								'. tl('Based in %s', COMPANY_BASED) .'
-							</p>
-							<p>
-								<strong>'. tl('Founding date:') .'</strong><br/>
-								'. COMPANY_DATE .'
 							</p>
 							<p>
 								<strong>'. tl('Website:') .'</strong><br/>
@@ -292,36 +289,9 @@ for( $i = 0; $i < count($socials); $i++ )
 	echo( '<a href="http://'.parseLink($link).'">'.$name.'</a><br/>' );
 }
 
-echo '							</p>
-							<p>
-							<strong>'. tl('Releases:') .'</strong><br />';
+echo '							</p>';
 
-if ($handle = opendir('.')) {
-	while (false !== ($entry = readdir($handle))) {
-		if ($entry != "." && $entry != ".." && $entry != "lang" && substr($entry,0,1) != "_" && strpos($entry, ".") === FALSE && substr($entry,-4) != ".log" && substr($entry,0,6) != "images" && substr($entry,0,8) != "trailers" && substr($entry,0,9) != "error_log") {
-			echo '<a href="sheet.php?p='.$entry . str_replace('?', '&', $languageQuery).'">'.ucwords(str_replace("_", " ", $entry)).'</a><br />';
-		}
-	}
-}
-closedir($handle);
-
-echo '							</p>
-							<p>';
-
-if( count($address) > 0 )
-{
-	echo '<strong>'. tl('Address:') .'</strong><br/>';
-	for( $i = 0; $i < count($address); $i++ )
-	{
-		echo $address[$i].'<br/>';
-	}
-}
-
-echo'							</p>
-							<p>
-								<strong>'. tl('Phone:') .'</strong><br/>
-								'. COMPANY_PHONE .'
-							</p>
+echo'
 						</div>
 						<div class="uk-width-medium-4-6">
 							<h2 id="description">'. tl('Description') .'</h2>
@@ -354,7 +324,7 @@ echo '<ul>';
 if ($handle = opendir('.')) {
 	while (false !== ($entry = readdir($handle))) {
 		if ($entry != "." && $entry != ".." && $entry != "lang" && substr($entry,0,1) != "_" && strpos($entry, ".") === FALSE && substr($entry,-4) != ".log" && substr($entry,0,6) != "images" && substr($entry,0,8) != "trailers" && substr($entry,0,9) != "error_log") {
-			echo '<li><a href="sheet.php?p='.$entry. str_replace('?', '&', $languageQuery).'">'.ucwords(str_replace("_", " ", $entry)).'</a></li>';
+			// echo '<li><a href="sheet.php?p='.$entry. str_replace('?', '&', $languageQuery).'">'.ucwords(str_replace("_", " ", $entry)).'</a></li>';
 		}
 	}
 }
@@ -591,6 +561,12 @@ if( count($additionals) > 0 ) {
 
 	echo '<hr>';
 }
+
+echo '
+<h2>About Clever Crow Games</h2>
+<p>Lorem ipsum</p>
+<hr>
+';
 
 echo '					<div class="uk-grid">
 						<div class="uk-width-medium-1-2">

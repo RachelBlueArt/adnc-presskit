@@ -1,0 +1,29 @@
+body {
+  background: url('../assets/images/paper-texture.png') #766F69;
+  color: #000;
+}
+
+a {
+  color: #940004;
+}
+
+a:hover {
+  color: #940004;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #1a1a1b;
+}
+
+.uk-nav-side>li>a {
+  color: #aaa;
+}
+
+.uk-nav-side>li>a:hover {
+  color: #fff;
+  text-shadow: none;
+}
+
+hr {
+  border-color: #aaa;
+}

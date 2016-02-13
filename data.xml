@@ -15,11 +15,11 @@
 
 	<socials>
 		<social>
-			<name>twitter</name>
+			<name>Twitter</name>
 			<link>https://twitter.com/Clever_Crow</link>
 		</social>
 		<social>
-			<name>facebook</name>
+			<name>Facebook</name>
 			<link>https://www.facebook.com/clevercrowgames</link>
 		</social>
 		<social>
@@ -55,7 +55,7 @@
 
 	<trailers>
 		<trailer>
-			<name>temp placeholder video</name>
+			<name>Trailer #1</name>
 			<youtube>afws75uGQu4</youtube>
 		</trailer>
 		<trailer>
