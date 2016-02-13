@@ -33,16 +33,16 @@
 	</socials>
 
 	<description>
-		A choice driven RPG set in a dark fantasy world. Play as Coal, a little dragon who wants to be a knight. Coal is a handicapped dragon who has been ostracized from society for his obsession with humans.
+	A choice driven RPG set in a dark fantasy world. Play as Coal, a little dragon who wants to be a knight.The game is primarily being created by a husband and wife game studio. Currently we're actively developing for Mac, Windows, Linux and the game will be DRM-Free. With a primary focus on Steam.
 
 		If Disney and the manga Berserk had a baby, you’d end up with A Dragon Named Coal. The game has visceral elements of Game of Thrones and doesn’t shy away from mature subject matter. At the same time it focuses on fable based storytelling mechanics.
 	</description>
 
 	<histories>
 		<history>
-			<text>Not all fairytales end happily. A Dragon Named Coal is a dark fantasy epic with Castlevania: Symphony of the Night inspired gameplay and branching story mechanics of Dragon Age: Origins. The game is primarily being created by a husband and wife game studio. Currently we're actively developing for Mac, Windows, Linux and the game will be DRM-Free. With a primary focus on Steam.
+			<text>This project started with the idea of a crippled, flightless dragon who wants to be a knight. That desire leads to Coal being outcast from dragon society and shunned.
 
-			A Dragon Named Coal is deeply inspired by the gameplay of Castlevania: Symphony of the Night, Dragon Age: Origins, and Dark Souls. While there are a good number of action RPGs being made. There are few 2D sidescrollers being made that combines gameplay with deep branching story mechanics.</text>
+			The primary emotional themes we built the game on are loneliness, bullying, and depression. Ash and Rachel both experienced bullying while growing up and wanted to incorporate some of the strong feelings into the game. These themes bleed into every aspect of the game from the design and aesthetic, to mechanics.</text>
 		</history>
 	</histories>
 
@@ -110,45 +110,49 @@
 																			 	monetize (full permission) -->
 	<additionals>
 		<additional>
-			<title>Company Link #1</title>
-			<description>This link is a link that might be useful. You can check it out at</description>
-			<link>http://somemusicsite.com/thislink</link>
+			<title>GameJolt Demo</title>
+			<description>Our Pre-Alpha demo has a 4.5/5 rating on the GameJolt Community</description>
+			<link>http://gamejolt.com/games/a-dragon-named-coal/52054</link>
+		</additional>
+		<additional>
+			<title>Newsletter</title>
+			<description>Get all the big news on A Dragon Named Coal</description>
+			<link>http://eepurl.com/CV97v</link>
 		</additional>
 	</additionals>
 
 	<credits>
 		<credit>
-			<person>John Doe</person>
-			<role>Artist, Freelancer</role>
+			<person>Rachel Blue</person>
+			<role>Co-Founder, Lead Artist, Writer</role>
 		</credit>
 		<credit>
-			<person>Oliver Twist</person>
-			<website>www.olivertwist.com</website>
-			<role>Artist, Freelancer</role>
+			<person>Ash Blue</person>
+			<role>Co-Founder, Lead Developer, Writer</role>
 		</credit>
 		<credit>
-			<person>Jane Doette</person>
-			<website>www.olivertwist.com</website>
-			<role>Music, Freelancer</role>
+			<person>Full Team</person>
+			<website>http://clevercg.com/about/</website>
+			<role>more information about the team here</role>
 		</credit>
 	</credits>
 
 	<contacts>
 		<contact>
-			<name>Inquiries</name>
-			<mail>rami@vlambeer.com</mail>
+			<name>Clever Crow Games</name>
+			<mail>contact@clevercrowgames.com</mail>
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>http://twitter.com/MyCompanyName</link>
+			<link>https://twitter.com/clever_crow</link>
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>http://facebook.com/MyCompanyName</link>
+			<link>https://www.facebook.com/clevercrowgames/</link>
 		</contact>
 		<contact>
 			<name>Web</name>
-			<link>MyCompanyWebsite.com</link>
+			<link>http://clevercg.com/</link>
 		</contact>
 	</contacts>
 </game>

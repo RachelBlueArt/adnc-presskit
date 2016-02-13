@@ -564,7 +564,7 @@ if( count($additionals) > 0 ) {
 
 echo '
 <h2>About Clever Crow Games</h2>
-<p>Lorem ipsum</p>
+<p>Our goal is to create RPG’s with meaningful story focused on character development. The concept for "A Dragon Named Coal" was conceived in late 2013.</p>
 <hr>
 ';
 
