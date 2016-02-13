@@ -1,18 +1,18 @@
 body {
-  background: url('../assets/images/paper-texture.png') #766F69;
-  color: #000;
+  background: url('../assets/images/leather-texture.jpg') #766F69;
+  color: #87878c;
 }
 
 a {
-  color: #940004;
+  color: rgb(190, 25, 30);
 }
 
 a:hover {
-  color: #940004;
+  color: rgb(190, 25, 30);
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1a1a1b;
+  color: #ccc;
 }
 
 .uk-nav-side>li>a {
