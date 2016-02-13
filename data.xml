@@ -45,16 +45,13 @@
 
 			A Dragon Named Coal is deeply inspired by the gameplay of Castlevania: Symphony of the Night, Dragon Age: Origins, and Dark Souls. While there are a good number of action RPGs being made. There are few 2D sidescrollers being made that combines gameplay with deep branching story mechanics.</text>
 		</history>
-		<history>
-			<header>Features</header>
-			<ul>
-					<li>Explore a choice driven dark fantasy world in an action platformer RPG as a misfit dragon</li>
-					<li>Upgrade your skills and gear by plundering the remains of ancient civilizations</li>
-					<li>Flexible companion system with characters that change based upon your choices after a time skip</li>
-					<li>Roughly 15 hours per playthrough</li>
-			</ul>
-		</history>
 	</histories>
+
+	<features>
+		<feature>
+			<text>My feature</text>
+		</feature>
+	</features>
 
 	<trailers>
 		<trailer>
