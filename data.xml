@@ -33,16 +33,15 @@
 	</socials>
 
 	<description>
-	A choice driven RPG set in a dark fantasy world. Play as Coal, a little dragon who wants to be a knight.The game is primarily being created by a husband and wife game studio. Currently we're actively developing for Mac, Windows, Linux and the game will be DRM-Free. With a primary focus on Steam.
-
-		If Disney and the manga Berserk had a baby, you’d end up with A Dragon Named Coal. The game has visceral elements of Game of Thrones and doesn’t shy away from mature subject matter. At the same time it focuses on fable based storytelling mechanics.
+		Castlevania: Symphony of the Night meets Dragon Age: Origins in this choice driven dark fantasy RPG. Play as Coal, a misfit dragon who wants to be a knight. The game is primarily being created by a husband and wife game studio. Currently we're actively developing for Mac, Windows, Linux and the game will be DRM-Free. With a primary focus on Steam.
 	</description>
 
 	<histories>
 		<history>
-			<text>This project started with the idea of a crippled, flightless dragon who wants to be a knight. That desire leads to Coal being outcast from dragon society and shunned.
-
-			The primary emotional themes we built the game on are loneliness, bullying, and depression. Ash and Rachel both experienced bullying while growing up and wanted to incorporate some of the strong feelings into the game. These themes bleed into every aspect of the game from the design and aesthetic, to mechanics.</text>
+			<text>A Dragon Named Coal started with the idea of a handicaped dragon who wants to be a knight. Bullied and rejected from dragon society, he becomes a monster hunting his own kind.</text>
+		</history>
+		<history>
+			<text>Semi-autobiography, the game draws heavily from founders Rachel and Ash Blue's experiences. Particularly growing up in broken homes and dealing with severe bullying in public schools. These themes bleed into every aspect of the game, from the design and aesthetic, to mechanics.</text>
 		</history>
 	</histories>
 
@@ -55,7 +54,7 @@
 	<trailers>
 		<trailer>
 			<name>Trailer #1</name>
-			<youtube>afws75uGQu4</youtube>
+			<youtube>ktS52y42hCY</youtube>
 		</trailer>
 		<trailer>
 			<name>A Dragon Named Coal - Pre-Alpha Walkthrough</name>
@@ -84,10 +83,10 @@
 
 	<quotes>
 		<quote>
-			<description>...an ambitious title.</description>
-			<name>Chris Priestman</name>
-			<website>Siliconera</website>
-			<link>http://www.siliconera.com/2015/03/25/pre-alpha-of-dark-fairytale-action-rpg-a-dragon-named-coal-now-playable/</link>
+			<description>A Dragon Named Coal combines all the best bits of Castlevania, Thomas Was Alone and Dragon Age into a charming pixel art metroidvania action RPG... A Dragon Named Coal feels a little bit special.</description>
+			<name>FreakOrama</name>
+			<website>Alpha Beta Gamer</website>
+			<link>http://www.alphabetagamer.com/a-dragon-named-coal-pre-alpha-demo/</link>
 		</quote>
 		<quote>
 			<description>...a large and sweeping tale of adventure.</description>
@@ -96,10 +95,10 @@
 			<link>http://thekoalition.com/2015/the-story-of-a-dragon-named-coal-hands-on-preview</link>
 		</quote>
 		<quote>
-			<description>A Dragon Named Coal combines all the best bits of Castlevania, Thomas Was Alone and Dragon Age into a charming pixel art metroidvania action RPG... A Dragon Named Coal feels a little bit special.</description>
-			<name>FreakOrama</name>
-			<website>Alpha Beta Gamer</website>
-			<link>http://www.alphabetagamer.com/a-dragon-named-coal-pre-alpha-demo/</link>
+			<description>...an ambitious title.</description>
+			<name>Chris Priestman</name>
+			<website>Siliconera</website>
+			<link>http://www.siliconera.com/2015/03/25/pre-alpha-of-dark-fairytale-action-rpg-a-dragon-named-coal-now-playable/</link>
 		</quote>
 	</quotes>
 
@@ -111,12 +110,14 @@
 	<additionals>
 		<additional>
 			<title>GameJolt Demo</title>
-			<description>Our Pre-Alpha demo has a 4.5/5 rating on the GameJolt Community</description>
+			<description>Our Pre-Alpha demo has a 4.5/5 rating on GameJolt</description>
 			<link>http://gamejolt.com/games/a-dragon-named-coal/52054</link>
 		</additional>
 		<additional>
 			<title>Newsletter</title>
-			<description>Get all the big news on A Dragon Named Coal</description>
+			<description>Quarterly newsletter for A Dragon Named Coal. If you work for
+			the press, contact us at contact@clevercrowgames.com to be added to an exclusive
+			mailing list for press only</description>
 			<link>http://eepurl.com/CV97v</link>
 		</additional>
 	</additionals>
@@ -133,7 +134,7 @@
 		<credit>
 			<person>Full Team</person>
 			<website>http://clevercg.com/about/</website>
-			<role>more information about the team here</role>
+			<role>All Team Members</role>
 		</credit>
 	</credits>
 

@@ -315,7 +315,8 @@ echo '<h2>Features</h2>';
 echo '<ul>';
 echo '<li>Explore a choice driven dark fantasy world in an action platformer RPG as a misfit dragon</li>';
 echo '<li>Upgrade your skills and gear by plundering the remains of ancient civilizations</li>';
-echo '<li>Flexible companion system with characters that change based upon your choices after a time skip</li>';
+echo '<li>Flexible companion system that change based upon your choices after a time skip</li>';
+echo '<li>Plunder massive isolated ruins filled with lore and breathtaking pixel art</li>';
 echo '<li>Roughly 15 hours per playthrough</li>';
 echo '</ul>';
 
@@ -430,7 +431,7 @@ if ($handle = opendir('images'))
 	{
 		if( substr($entry,-4) == ".png" || substr($entry,-4) == ".gif" )
 		{
-			if( substr($entry,0,4) != "logo" && substr($entry,0,4) != "icon" && substr($entry,0,6) != "header" )
+			if(substr($entry,0,10) != "coal-house" && substr($entry,0,4) != "logo" && substr($entry,0,4) != "icon" && substr($entry,0,6) != "header" )
 			{
 				echo '<div class="uk-width-medium-1-2"><a href="images/'. $entry .'"><img src="images/'.$entry.'" alt="'.$entry.'" /></a></div>';
 			}
