@@ -470,6 +470,10 @@ if( file_exists('images/icon.png') ) {
 	echo '<div class="uk-width-medium-1-2"><a href="images/icon.png"><img src="images/icon.png" alt="logo" /></a></div>';
 }
 
+if( file_exists('images/coal-house.png') ) {
+	echo '<div class="uk-width-medium-1-2"><a href="images/coal-house.png"><img src="images/coal-house.png" alt="logo" /></a></div>';
+}
+
 echo '</div>';
 
 if( !file_exists('images/logo.png') && !file_exists('images/icon.png')) {
